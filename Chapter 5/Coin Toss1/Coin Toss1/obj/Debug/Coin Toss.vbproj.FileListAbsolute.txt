@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\bin\Debug\Coin Toss.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\bin\Debug\Coin Toss.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\bin\Debug\Coin Toss.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\bin\Debug\Coin Toss.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin Toss.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin Toss.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Coin Toss\obj\Debug\Coin Toss.pdb

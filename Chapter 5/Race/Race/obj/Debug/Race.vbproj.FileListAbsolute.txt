@@ -1,0 +1,20 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\bin\Debug\Race.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\bin\Debug\Race.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\bin\Debug\Race.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\bin\Debug\Race.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Race\obj\Debug\Race.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\bin\Debug\Race.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\bin\Debug\Race.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\bin\Debug\Race.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\bin\Debug\Race.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.Form1.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.Resources.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter 5\Race\Race\obj\Debug\Race.vbproj.GenerateResource.Cache

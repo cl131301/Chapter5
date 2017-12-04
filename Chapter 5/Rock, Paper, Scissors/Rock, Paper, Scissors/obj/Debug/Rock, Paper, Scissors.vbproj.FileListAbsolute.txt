@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\bin\Debug\Rock, Paper, Scissors.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock__Paper__Scissors.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock__Paper__Scissors.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock, Paper, Scissors.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\bin\Debug\Rock, Paper, Scissors.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\bin\Debug\Rock, Paper, Scissors.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\bin\Debug\Rock, Paper, Scissors.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock, Paper, Scissors.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock, Paper, Scissors.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Rock, Paper, Scissors\obj\Debug\Rock, Paper, Scissors.pdb
