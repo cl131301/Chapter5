@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\bin\Debug\Population.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\bin\Debug\Population.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\bin\Debug\Population.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\bin\Debug\Population.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Population\obj\Debug\Population.pdb
