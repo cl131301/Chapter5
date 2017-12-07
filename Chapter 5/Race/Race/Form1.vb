@@ -13,7 +13,7 @@
             picboxChristine1.Left = intCount
             '    ChristineResult = ChristineResult + 1
         Next
-        For intCount2 = 93 To rand.Next(50) + 300
+        For intCount2 = 93 To rand.Next(50) + 200
             picboxFallon1.Left = intCount
             '    FallonResult = FallonResult + 1
         Next

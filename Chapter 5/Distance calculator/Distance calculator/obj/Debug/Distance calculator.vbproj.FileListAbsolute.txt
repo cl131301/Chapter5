@@ -1,0 +1,20 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\bin\Debug\Distance calculator.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\bin\Debug\Distance calculator.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\bin\Debug\Distance calculator.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\bin\Debug\Distance calculator.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance_calculator.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance_calculator.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance calculator.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance calculator.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance calculator.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Distance calculator\obj\Debug\Distance calculator.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\bin\Debug\Distance calculator.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance calculator.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance calculator.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance calculator.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\bin\Debug\Distance calculator.exe
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\bin\Debug\Distance calculator.pdb
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\bin\Debug\Distance calculator.xml
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance_calculator.Form1.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance_calculator.Resources.resources
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Distance calculator\Distance calculator\obj\Debug\Distance calculator.vbproj.GenerateResource.Cache
