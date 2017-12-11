@@ -8,7 +8,12 @@
 
         strInput = InputBox("Enter a positive interger value.", "Input Needed", "10")
 
-        If Integer.TryParse(strInput, IntInput) Then
+        If Integer.TryParse(strInput, IntInput) And IsNumeric(strInput) And IntNumScore >= 0 Then
+            For IntCounter As Integer = 1 To IntNumScore
+                IntCount += IntCounter
+            Next
+            MessageBox.Show("The sum of the numbers 1 through " & IntInput & " is " & IntNumScore)
+        ElseIf Integer.TryParse(strInput, IntInput) Then
             If IntInput < 0 Then
                 MessageBox.Show("Please input positive number.")
             Else
@@ -16,10 +21,8 @@
                     strInput += 1
                     IntNumScore += IntCount
                 Loop
-                MessageBox.Show("The sum of the numbers 1 through " & IntInput & " is " & IntNumScore)
+                MessageBox.Show("Please input a valid number.")
             End If
-        Else
-            MessageBox.Show("Please input a valid number.")
         End If
     End Sub
 
