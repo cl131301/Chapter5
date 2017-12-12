@@ -19,7 +19,7 @@
         For intCount = intCount + 1 To cboxDays.Text
 
             dblTotal = (CDbl(txtIncreasePercent.Text * dblTotal) / 100) + dblTotal
-            lstOutput.Items.Add(intCount.ToString + "      " + dblTotal.ToString)
+            lstOutput.Items.Add(intCount.ToString + "        " + dblTotal.ToString)
         Next
 
     End Sub

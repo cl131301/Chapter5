@@ -1,1 +1,2 @@
 C:\Users\cl131301\AppData\Local\Temporary Projects\Random number\bin\Debug\Random number.exe.config
+C:\Users\cl131301\Desktop\Visual Basic\Chapter5\Chapter 5\Random number\Random number\bin\Debug\Random number.exe.config

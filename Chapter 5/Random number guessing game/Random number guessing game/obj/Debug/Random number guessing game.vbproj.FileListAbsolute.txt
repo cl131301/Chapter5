@@ -1,0 +1,10 @@
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\bin\Debug\Random number guessing game.exe.config
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random_number_guessing_game.Form1.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random_number_guessing_game.Resources.resources
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random number guessing game.vbproj.GenerateResource.Cache
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\bin\Debug\Random number guessing game.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\bin\Debug\Random number guessing game.pdb
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\bin\Debug\Random number guessing game.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random number guessing game.exe
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random number guessing game.xml
+C:\Users\cl131301\AppData\Local\Temporary Projects\Random number guessing game\obj\Debug\Random number guessing game.pdb
